@@ -1,0 +1,13 @@
+{
+    "XMCloud_Environments": {
+        "<ENVIRONMENT NAME>": {
+            "id": "<ENVIRONMENT ID>",
+            "cm": "https://<ENVIRONMENT URL>.sitecorecloud.io",
+            "spe_username": "sitecore\\speremoting",
+            "spe_sharedsecret": "<SHARED SECRET>"
+        }
+    },
+    "==== Organization Authentication Client Id and Secret ====": "See: https://deploy.sitecorecloud.io/auth-clients/organization",
+    "XMCloud_AutomationClient_ClientId": "<ORGANIZATION LEVEL CLIENT ID>",
+    "XMCloud_AutomationClient_ClientSecret": "<ORGANIZATION LEVEL CLIENT SECRET>"
+}
